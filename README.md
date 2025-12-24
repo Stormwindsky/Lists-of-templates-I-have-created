@@ -14,3 +14,7 @@ https://github.com/Stormwindsky/Firefox-Addon-Template
 https://github.com/Stormwindsky/GMOD-Gamemode-Template
 
 https://github.com/Stormwindsky/Template-Resource-pack
+
+# Other's 👍 :
+
+https://github.com/Stormwindsky/Template-EZcript-Projects
