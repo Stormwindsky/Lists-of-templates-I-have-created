@@ -11,9 +11,17 @@ https://github.com/Stormwindsky/Firefox-Addon-Template
 
 # Video Games 🎮 :
 
+# Gmod:
+
 https://github.com/Stormwindsky/GMOD-Gamemode-Template
 
+# Minecraft ''Java'':
+
 https://github.com/Stormwindsky/Template-Resource-pack
+
+# Hytale (Coming Soon... probably)
+
+https://github.com/Stormwindsky/Hytale-Template-Mod
 
 # Other's 👍 :
 
