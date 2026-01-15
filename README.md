@@ -23,7 +23,7 @@ https://github.com/Stormwindsky/Template-Resource-pack
 
 https://github.com/Stormwindsky/Luanti-Texture-Pack-Template
 
-# Hytale (Coming Soon... probably)
+# Hytale (NOT FINISHED 4 NOW)
 
 https://github.com/Stormwindsky/Hytale-Template-Mod
 
