@@ -19,6 +19,10 @@ https://github.com/Stormwindsky/GMOD-Gamemode-Template
 
 https://github.com/Stormwindsky/Template-Resource-pack
 
+# Luanti (Minetest)
+
+https://github.com/Stormwindsky/Luanti-Texture-Pack-Template
+
 # Hytale (Coming Soon... probably)
 
 https://github.com/Stormwindsky/Hytale-Template-Mod
