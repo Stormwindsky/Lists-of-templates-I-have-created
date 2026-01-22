@@ -29,4 +29,13 @@ https://github.com/Stormwindsky/Hytale-Template-Mod
 
 # Other's 👍 :
 
+
+# EZcript Projects Template
+
 https://github.com/Stormwindsky/Template-EZcript-Projects
+
+# Github Wiki Template (NOT FINISHED 4 NOW)
+
+https://github.com/Stormwindsky/Github-Wiki-Template/
+
+
