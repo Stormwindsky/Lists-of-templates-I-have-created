@@ -31,7 +31,7 @@ https://github.com/Stormwindsky/Luanti-Texture-Pack-Template
 
 https://github.com/Stormwindsky/Hytale-Template-Mod
 
-# Other's 👍 :
+# Other's 🤔 :
 
 
 # EZcript Projects Template
