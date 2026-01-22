@@ -8,6 +8,10 @@ This means that they are in the public domain, so you don't even need to credit 
 
 https://github.com/Stormwindsky/Firefox-Addon-Template
 
+# Violent monkey:
+
+https://github.com/Stormwindsky/Violent-monkey-Template-Script/
+
 
 # Video Games 🎮 :
 
