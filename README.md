@@ -45,3 +45,7 @@ https://github.com/Stormwindsky/Github-Wiki-Template/
 # Homebrew Games 🕹️ :
 
 https://github.com/Stormwindsky/GameBoy-Homebrew-Template
+
+# Forum / Blog Template Website 💬   :
+
+https://github.com/Stormwindsky/Forum-Blog-Template
