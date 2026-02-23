@@ -31,6 +31,10 @@ https://github.com/Stormwindsky/Luanti-Texture-Pack-Template
 
 https://github.com/Stormwindsky/Hytale-Template-Mod
 
+# Hytale Modpack Template   ⛏️  :
+
+https://github.com/Stormwindsky/Template-Hytale-ModPack
+
 # Other's 🤔 :
 
 
